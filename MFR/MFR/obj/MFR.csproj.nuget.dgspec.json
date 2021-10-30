@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Asp Projects\\MFR\\MFR\\MFR.csproj": {}
+    "D:\\PwC Repos\\MFR_WebApi\\MFR\\MFR\\MFR.csproj": {}
   },
   "projects": {
-    "D:\\Asp Projects\\MFR\\MFR\\MFR.csproj": {
+    "D:\\PwC Repos\\MFR_WebApi\\MFR\\MFR\\MFR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Asp Projects\\MFR\\MFR\\MFR.csproj",
+        "projectUniqueName": "D:\\PwC Repos\\MFR_WebApi\\MFR\\MFR\\MFR.csproj",
         "projectName": "MFR",
-        "projectPath": "D:\\Asp Projects\\MFR\\MFR\\MFR.csproj",
+        "projectPath": "D:\\PwC Repos\\MFR_WebApi\\MFR\\MFR\\MFR.csproj",
         "packagesPath": "C:\\Users\\thomm\\.nuget\\packages\\",
-        "outputPath": "D:\\Asp Projects\\MFR\\MFR\\obj\\",
+        "outputPath": "D:\\PwC Repos\\MFR_WebApi\\MFR\\MFR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thomm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

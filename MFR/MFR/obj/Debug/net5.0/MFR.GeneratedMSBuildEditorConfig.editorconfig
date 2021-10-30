@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MFR
-build_property.ProjectDir = D:\Asp Projects\MFR\MFR\
+build_property.ProjectDir = D:\PwC Repos\MFR_WebApi\MFR\MFR\
